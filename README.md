@@ -6,21 +6,29 @@ The AI Career Guidance System is an interactive web application that provides pe
 **Key Features:-**
 
 ✔️ Skill-based career recommendations
+
 ✔️ Real-time results with interactive UI
+
 ✔️ Lightweight and fast performance
+
 ✔️ Easy-to-use interface
 
 **Tech Stack:-**
 
 1. Language: Python
+
 2.Framework: Streamlit
+
 3.Libraries: Pandas, NumPy
+
 4.Tools: Git, GitHub, VS Code
 
 **Usage:-**
 
 1.Enter your skills in the input field
+
 2.Click on submit
+
 3.Get instant career recommendations
 
 **System Workflow:-**
@@ -30,8 +38,11 @@ User Input → Skill Analysis → Matching Logic → Career Recommendation Outpu
 **Future Enhancements:-**
 
 🔹 Machine Learning-based recommendation system
+
 🔹 Integration with real datasets
+
 🔹 Personalized user profiles
+
 🔹 Cloud deployment
 
 **Screenshot:-**
@@ -40,7 +51,9 @@ User Input → Skill Analysis → Matching Logic → Career Recommendation Outpu
 **Project Highlights:-**
 
 1.Built a real-time recommendation system
+
 2.Designed an interactive UI using Streamlit
+
 3.Demonstrates practical implementation of AI concepts
 
 
